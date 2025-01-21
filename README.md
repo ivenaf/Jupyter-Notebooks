@@ -1,2 +1,2 @@
-# Python- Jupyter NoteBooks-EDAs
-Practice projects / Notebooks  like exploratory data analysis and web scraping can be found here.
+# Python Notebooks
+Practice projects / Notebooks concerning  exploratory data analysis and/or web scraping can be found here.
