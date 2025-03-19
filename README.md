@@ -1,2 +1,3 @@
-# Python Notebooks
+# Jupyter Notebooks
+Introductory Excercises
 Practice projects / Notebooks concerning  exploratory data analysis, data extractions(web scraping) etc...
